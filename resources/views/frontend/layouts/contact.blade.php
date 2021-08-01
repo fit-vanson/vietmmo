@@ -13,7 +13,7 @@
                                 <ul>
                                     <li><i class="fa fa-phone"></i> <span class="information">(+84) 916 120 789 </span></li>
                                     <li><i class="fa fa-envelope-o"></i> <span class="information"><a href="/">admin@vietmmo.net</a></span></li>
-                                    <li><i class="fa fa-map-o"></i> <span class="information">Tòa nhà Trung Đô 1 - Phường Hưng Dũng - TP.Vinh,<br>Việt Nam</span></li>
+                                    <li><i class="fa fa-map-o"></i> <span class="information">Tòa nhà Trung Đô 1 - Phường Hưng Dũng - TP.Vinh,Việt Nam</span></li>
                                 </ul>
                             </div>
                         </div>
