@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-lg-7 ml-auto mr-auto">
                 <div class="section-title pb--50">
-                    <h2>OUR Pricing Table</h2>
+                    <h2>Chọn dịch vụ của bạn</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, fugiat, accusamus! Consequatur suscipit numquam cumque.</p>
                 </div>
             </div>

@@ -6,7 +6,7 @@
             <div class="row header-top-inner">
                 <div class="col-lg-4">
                     <div class="logo">
-                        <a href="index.html"><img src="assets/images/logo/logo-2.png" alt=""></a>
+                        <a href="/"><img src="assets/images/logo/logo-2.png" alt=""></a>
                     </div>
                 </div>
                 <div class="col-lg-8">

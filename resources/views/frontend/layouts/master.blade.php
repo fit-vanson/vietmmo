@@ -32,11 +32,11 @@
     <!-- Feature Area End -->
 
     <!-- Video Area Start -->
-@include('frontend.layouts.video')
+{{--@include('frontend.layouts.video')--}}
     <!-- Video Area End -->
 
     <!-- Project Count Area Start -->
-@include('frontend.layouts.project_count')
+{{--@include('frontend.layouts.project_count')--}}
     <!-- Project Count Area End -->
 
     <!-- Pricing Packages Start -->
@@ -52,7 +52,7 @@
     <!-- Screenshot Area Tow End -->
 
     <!-- Download Area Start  -->
-@include('frontend.layouts.download')
+{{--@include('frontend.layouts.download')--}}
     <!-- Download Area End  -->
 
     <!-- Contact Area Start -->

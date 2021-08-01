@@ -60,13 +60,13 @@ body {
   font-style: normal;
   font-weight: normal;
   visibility: visible;
-  font-family: sans-serif;
+  font-family: SofiaProBoldVh,sans-serif;
   color: #333;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: #383838;
-  font-family: "Lato", sans-serif;
+  font-family:  SofiaProBoldVh,sans-serif;
   margin-top: 0;
 }
 
@@ -817,6 +817,7 @@ body.box-body {
 .section-title {
   margin-bottom: 60px;
   text-align: center;
+
 }
 @media only screen and (max-width: 767px) {
   .section-title {
@@ -830,6 +831,7 @@ body.box-body {
   text-transform: uppercase;
   margin-bottom: 20px;
   text-align: center;
+  font-family: SofiaProBoldVh
 }
 @media only screen and (max-width: 767px) {
   .section-title h2 {
@@ -3074,6 +3076,16 @@ body.box-body {
 .single-testimonial .test-author p {
   font-weight: 500;
   font-size: 14px;
+}
+
+.testimonial-title h2 {
+    font-family: SofiaProBoldVh;
+    font-size: 28px;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    text-align: center;
+    color: #ffffff;
 }
 
 /*--

@@ -4,8 +4,8 @@
         <div class="row">
             <div class="col-lg-7 ml-auto mr-auto">
                 <div class="section-title">
-                    <h2>Our App Feature</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, fugiat, accusamus! Consequatur suscipit numquam cumque.</p>
+                    <h2>Dịch vụ đặc biệt của chúng tôi</h2>
+                    <p>.</p>
                 </div>
             </div>
         </div>
@@ -14,33 +14,33 @@
                 <div class="feature-content-inner">
                     <div class="single-feature text-right row-reverse">
                         <div class="feature-icon">
-                            <i class="ion-ios-speedometer-outline"></i>
+                            <i class="ion-android-mail"></i>
                         </div>
                         <div class="feature-content">
                             <div class="feature-text">
-                                <h4>Dedicated Support</h4>
-                                <p>Your project looks great on any device. Content can be easily read and a user.</p>
+                                <h4>Email Marketing</h4>
+                                <p>Duis quis eleifend sem, non malesuada lectus. Curabitur feugiat rutrum mi rutrum lore ultricies.</p>
                             </div>
                         </div>
                     </div>
                     <div class="single-feature  text-right row-reverse">
                         <div class="feature-icon">
-                            <i class="ion-ios-chatboxes-outline"></i>
+                            <i class="ion-ios-world-outline"></i>
                         </div>
                         <div class="feature-content">
                             <div class="feature-text">
-                                <h4>Live Chat Messages</h4>
-                                <p>Your project looks great on any device. Content can be easily read and a user.</p>
+                                <h4>Web Design</h4>
+                                <p>Duis quis eleifend sem, non malesuada lectus. Curabitur feugiat rutrum mi rutrum lore ultricies.</p>
                             </div>
                         </div>
                     </div>
                     <div class="single-feature  text-right row-reverse">
                         <div class="feature-icon">
-                            <i class="ion-ios-lightbulb-outline"></i>
+                            <i class="ion-android-laptop"></i>
                         </div>
                         <div class="feature-content">
                             <div class="feature-text">
-                                <h4>Creative Design</h4>
+                                <h4>Web Development</h4>
                                 <p>Your project looks great on any device. Content can be easily read and a user.</p>
                             </div>
                         </div>
@@ -56,11 +56,11 @@
                 <div class="feature-content">
                     <div class="single-feature">
                         <div class="feature-icon">
-                            <i class="ion-ios-world-outline"></i>
+                            <i class="ion-ios-help-outline"></i>
                         </div>
                         <div class="feature-content">
                             <div class="feature-text">
-                                <h4>Clean Design</h4>
+                                <h4>Support</h4>
                                 <p>Your project looks great on any device. Content can be easily read and a user.</p>
                             </div>
                         </div>

@@ -5,11 +5,15 @@
             <div class="col-lg-6  order-2 order-lg-1">
                 <div class="about-content-two">
                     <div class="about-title-two">
-                        <h2>About Carroll </h2>
-                        <h3>Lorem ipsum dolor sit amet </h3>
+                        <h2>Giới thiệu về Việt MMO</h2>
+                        <h3>Cái này là giới thiệu </h3>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet dolor libero, eget venenatis mauris finibus dictum. Vestibulum quis elit eget neque porttitor congue non sit amet dolor. Proin pretium purus a lorem ornare </p>
-                    <p>sed lobortis pulvinar. Integer laoreet mi id eros porta euismod. Suspendisse potenti. Nulla eros mauris, convallis et sem tempus, viverra hendrerit sapien</p>
+                    <p> Công ty Viêt MMO có đôi lời phát biểu
+                        Công ty chúng tôi là công ty chuyên về ABC và XYZ.</p>
+                    <p>
+                        Chúng tôi đang hỗ trợ tất cả các loại dịch vụ trực tuyến kể từ năm 2019.
+                        Với bề dày kinh nghiệm chúng tôi tự tin mang đến trải nghiệm người dùng rất OK
+                    </p>
                     <div class="about-social-link">
                         <a href="#"><i class="fa fa-facebook"></i></a>
                         <a href="#"><i class="fa fa-twitter"></i></a>

@@ -6,7 +6,7 @@
                 <div class="col-lg-12">
                     <div class="footer-content fotter-content-two">
                         <div class="footer-logo">
-                            <a href="index.html"><img src="assets/images/logo/logo-2.png" alt=""></a>
+                            <a href="/"><img src="assets/images/logo/logo-2.png" alt=""></a>
                         </div>
                         <p>Copyright © 2018 HasTech. All Rights Reserved</p>
                         <div class="social-link">

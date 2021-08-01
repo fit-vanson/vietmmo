@@ -3,6 +3,11 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 ml-auto mr-auto">
+
+                <div class="testimonial-title pb--50">
+                    <h2>Đánh giá khách hàng</h2>
+                </div>
+
                 <div class="testimonial-content testimonial-active">
                     <!-- single-testimonial start -->
                     <div class="single-testimonial">

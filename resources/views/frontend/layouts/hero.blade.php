@@ -7,10 +7,10 @@
                     <div class="slider-text-info">
                         <h1>Công ty Việt MMO <br>Travel App.</h1>
                         <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
-                        <div class="slider-button">
-                            <a href="#" class=" slider-btn uppercase"><span><i class="fa fa-apple"></i>Apple store</span></a>
-                            <a href="#" class="slider-btn uppercase"><span><i class="fa fa-send-o"></i>Google play</span></a>
-                        </div>
+{{--                        <div class="slider-button">--}}
+{{--                            <a href="#" class=" slider-btn uppercase"><span><i class="fa fa-apple"></i>Apple store</span></a>--}}
+{{--                            <a href="#" class="slider-btn uppercase"><span><i class="fa fa-send-o"></i>Google play</span></a>--}}
+{{--                        </div>--}}
 
                     </div>
                 </div>

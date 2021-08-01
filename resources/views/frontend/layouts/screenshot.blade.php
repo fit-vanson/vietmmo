@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-lg-7 ml-auto mr-auto">
                 <div class="section-title">
-                    <h2>APP Screenshots</h2>
+                    <h2>Hình ảnh minh họa</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, fugiat, accusamus! Consequatur suscipit numquam cumque.</p>
                 </div>
             </div>
