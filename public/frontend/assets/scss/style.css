@@ -8,14 +8,14 @@
     Version: 1.0
 
 -----------------------------------------------------------------------------------
-    
+
     CSS INDEX
     =========================================
-	
+
     01. Theme default CSS
         - Common Classes
         - Section Padding
-    02. Element 
+    02. Element
         - Section Title Css
     03. Mobile Menu Css
     04. Header Css
@@ -24,7 +24,7 @@
         - Hero Slider Mobile Css
     06. About Area Css
     07. Service Area Css
-    08. Video Area Css 
+    08. Video Area Css
     09. Priceing Area Css
     10. Screenshot Area Css
     11. Team  Area Css
@@ -32,7 +32,7 @@
     13. Contact Area Css
         - Download Area Css
     14. Fotter Area Css
-    
+
 -----------------------------------------------------------------------------------*/
 /* transition */
 /* flex */
@@ -129,7 +129,7 @@ ul {
   margin: 0;
   padding: 0; }
 
-/*-- 
+/*--
     - Common Classes
 -----------------------------------------*/
 .fix {
@@ -164,7 +164,7 @@ ul {
 .border-t-one {
   border-top: 1px solid #e5e5e5; }
 
-/*-- 
+/*--
     - Background color
 -----------------------------------------*/
 .bg-white {
@@ -179,13 +179,13 @@ ul {
 .bg-black {
   background: #1D1D1D; }
 
-/*-- 
+/*--
     - color
 -----------------------------------------*/
 .c-blue {
   color: #504CE5; }
 
-/*-- 
+/*--
     - Input Placeholder
 -----------------------------------------*/
 input:-moz-placeholder, textarea:-moz-placeholder {
@@ -204,8 +204,8 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   opacity: 1;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)"; }
 
-/*-- 
-    Scroll Up 
+/*--
+    Scroll Up
 -----------------------------------------*/
 #scrollUp {
   width: 40px;
@@ -226,14 +226,14 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     animation-fill-mode: both;
     animation-iteration-count: infinite; }
 
-/*-- 
+/*--
     - Main Wrapper
 -----------------------------------------*/
 .main-wrapper.header-transparent {
   padding: 0 !important;
   margin: 0 !important; }
 
-/*-- 
+/*--
     - Section Padding
 -------------------------------------*/
 .section-ptb {
@@ -638,7 +638,7 @@ body.box-body {
   font-size: 34px;
   line-height: 38px; }
 
-/*-- 
+/*--
    03. Mobile Menu Css
 -------------------------*/
 .mobile-menu {
@@ -2415,7 +2415,7 @@ body.box-body {
         color: #E2324D;
         background: transparent; }
 
-/*-- 
+/*--
     12. Testimonial Area Css
 -----------------*/
 .bg-testimonial {

@@ -8,14 +8,14 @@
     Version: 1.0
 
 -----------------------------------------------------------------------------------
-    
+
     CSS INDEX
     =========================================
-	
+
     01. Theme default CSS
         - Common Classes
         - Section Padding
-    02. Element 
+    02. Element
         - Section Title Css
     03. Mobile Menu Css
     04. Header Css
@@ -24,7 +24,7 @@
         - Hero Slider Mobile Css
     06. About Area Css
     07. Service Area Css
-    08. Video Area Css 
+    08. Video Area Css
     09. Priceing Area Css
     10. Screenshot Area Css
     11. Team  Area Css
@@ -32,7 +32,7 @@
     13. Contact Area Css
         - Download Area Css
     14. Fotter Area Css
-    
+
 -----------------------------------------------------------------------------------*/
 /*$quicksand: 'Quicksand', sans-serif;*/
 /* transition */
@@ -60,7 +60,7 @@ body {
   font-style: normal;
   font-weight: normal;
   visibility: visible;
-  font-family: "Lato", sans-serif;
+  font-family: sans-serif;
   color: #333;
 }
 
@@ -150,7 +150,7 @@ ul {
   padding: 0;
 }
 
-/*-- 
+/*--
     - Common Classes
 -----------------------------------------*/
 .fix {
@@ -226,7 +226,7 @@ ul {
   }
 }
 
-/*-- 
+/*--
     - Background color
 -----------------------------------------*/
 .bg-white {
@@ -249,14 +249,14 @@ ul {
   background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #29B9F2 0%, #c1eafa 100%) repeat scroll 0 0;
 }
 
-/*-- 
+/*--
     - color
 -----------------------------------------*/
 .c-blue {
   color: #29B9F2;
 }
 
-/*-- 
+/*--
     - Input Placeholder
 -----------------------------------------*/
 input:-moz-placeholder, textarea:-moz-placeholder {
@@ -279,8 +279,8 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 }
 
-/*-- 
-    Scroll Up 
+/*--
+    Scroll Up
 -----------------------------------------*/
 #scrollUp {
   width: 40px;
@@ -304,7 +304,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   animation-iteration-count: infinite;
 }
 
-/*-- 
+/*--
     - Main Wrapper
 -----------------------------------------*/
 .main-wrapper.header-transparent {
@@ -312,7 +312,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   margin: 0 !important;
 }
 
-/*-- 
+/*--
     - Section Padding
 -------------------------------------*/
 .section-ptb {
@@ -850,6 +850,8 @@ body.box-body {
   margin-bottom: 30px;
 }
 .contact-title h2 {
+    font-family: SofiaProBoldVh;
+
   font-size: 28px;
   font-weight: 800;
   text-transform: uppercase;
@@ -872,7 +874,7 @@ body.box-body {
   }
 }
 
-/*-- 
+/*--
    03. Mobile Menu Css
 -------------------------*/
 .mobile-menu {
@@ -1243,6 +1245,7 @@ body.box-body {
   }
 }
 .hero-slider h1 {
+    font-family: SofiaProBoldVh;
   font-size: 45px;
   font-weight: 800 !important;
   color: #333;
@@ -2998,7 +3001,7 @@ body.box-body {
   background: transparent;
 }
 
-/*-- 
+/*--
     12. Testimonial Area Css
 -----------------*/
 .bg-testimonial {
